@@ -7,7 +7,6 @@ import org.springframework.context.annotation.EnableAspectJAutoProxy;
 
 @SpringBootApplication
 @EnableAspectJAutoProxy
-@EnableBatchProcessing
 public class SpringBootDevSpringbatchApplication {
 
 	public static void main(String[] args) {
